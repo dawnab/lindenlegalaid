@@ -1,0 +1,65 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Linden Legal Aid Centre - Statistics</title>
+<link href="/web/20180902000807cs_/http://lindenlegalaid.org/styles/styles.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+<!--
+#aidcontent {width:auto;}
+-->
+</style></head>
+<div id="wrapper">
+  <div id="banner"></div>
+  <div id="navbar">
+  <ul id="navleft">
+	<li><a href="aboutus.html">About Us</a></li>
+	<li><a href="newsletter.html">Newsletter</a></li>
+	<li><a href="our_work.html">Our Work</a></li>
+	<li><a href="resources.html">Resources</a></li>
+	<li><a href="statistics.html">Statistics</a></li>
+  </ul>
+  <ul id="navright">
+	<li><a href="index.html">Home</a></li>
+	<li><a href="donate.html">Donate</a></li>
+	<li><a href="contactus.html">Contact Us</a></li>
+  </ul>
+  </div> 
+<br class="clearfloat"/>
+  <div id="contentheadleft">Statistics</div>
+  <div id="contentheadcenter"></div>
+  <div id="contentheadright"></div>
+  <br class="clearfloat"/>
+
+  <div id="aidcontent"><p>You will need <a href="https://web.archive.org/web/20180902000807/http://get.adobe.com/reader" target="_blank">Adobe Reader</a> or a similar program in order to view the documents on this page.</p>
+  
+  <h3 style="margin-bottom:12px;">Linden Legal Aid Centre</h3>
+  
+  <ul style="margin:0 0 0 15px; list-style-type:disc;">
+		<li><a href="documents/summary_of_all_matters_1011-0112.pdf">Summary of All Matters - October 1st, 2011 to January 31st, 2012</a></li>
+		<li><a href="documents/summary_of_new_matters_1011-0112.pdf">Summary of New Matters - October 1st, 2011 to January 31st, 2012</a></li>
+		<li><a href="documents/summary_of_new_matters_0711-0911.pdf">Summary of New Matters - July 1st, 2011 to September 30th, 2011</a></li>
+		<li><a href="documents/summary_of_new_matters_0411-0611.pdf">Summary of New Matters - April 1st, 2011 to June 30th, 2011</a></li>
+		<li><a href="documents/summary_of_new_matters_0111-0311.pdf">Summary of New Matters - January 1st, 2011 to March 31st, 2011</a></li>
+		<li><a href="documents/summary_of_new_matters_0910-1210.pdf">Summary of New Matters - September 1st, 2010 to December 31st, 2010</a></li>
+		<li><a href="documents/summary_of_new_matters_0610-0810.pdf">Summary of New Matters - June 1st, 2010 to August 31st, 2010</a></li>
+		<li><a href="documents/summary_of_new_matters_0310-0510.pdf">Summary of New Matters - March 1st, 2010 to May 31st, 2010</a></li>
+		<li><a href="documents/summary_of_new_matters_1209-0210.pdf">Summary of New Matters - December 1st, 2009 to February 28th, 2010</a></li>
+		<li><a href="documents/summary_of_new_matters_0909-1109.pdf">Summary of New Matters - September 1st, 2009 to November 30th, 2009</a></li>
+		<li><a href="documents/summary_of_new_matters_0609-0809.pdf">Summary of New Matters - June 1st, 2009 to August 31st, 2009</a></li>
+		<li><a href="documents/summary_of_new_matters_0309-0509.pdf">Summary of New Matters - March 1st, 2009 to May 31st, 2009</a></li>
+		<li><a href="documents/summary_of_new_matters_0908-0209.pdf">Summary of New Matters - September 1st, 2008 to February 28th, 2009</a></li>
+		<li><a href="documents/summary_of_new_matters_0708-0808.pdf">Summary of New Matters - July 16th, 2008 to August 15th, 2008</a></li>
+		<li><a href="documents/summary_of_new_matters_0108-0708.pdf">Summary of New Matters - January 1st, 2008 to July 15th, 2008</a></li>
+  </ul>
+  </div>
+
+<div class="clearfloat"></div>
+</div>
+
+<div id="copyright">Copyright (c) 2009-2012 Linden Legal Aid Centre. All rights reserved. Webmaster: Jason Mars</div>
+
+</body>
+</html>

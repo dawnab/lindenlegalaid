@@ -1,0 +1,36 @@
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div id="wrapper">
+<div id="banner">&nbsp;</div>
+<div id="navbar">
+<ul id="navleft">
+<li><a href="aboutus.html">About Us</a></li>
+<li><a href="newsletter.html">Newsletter</a></li>
+<li><a href="our_work.html">Our Work</a></li>
+<li><a href="resources.html">Resources</a></li>
+<li><a href="statistics.html">Statistics</a></li>
+</ul>
+<ul id="navright">
+<li><a href="index.html">Home</a></li>
+<li><a href="donate.html">Donate</a></li>
+<li><a href="contactus.html">Contact Us</a></li>
+</ul>
+</div>
+<br class="clearfloat" />
+<div id="contentheadleft">About Us</div>
+<div id="contentheadcenter">&nbsp;</div>
+<div id="contentheadright">&nbsp;</div>
+<br class="clearfloat" />
+<div id="aidcontent">
+<p>The Linden Legal Aid Centre is a humanitarian response to the needs of the residents of Region #10 where challenging economic conditions resulting from the decline of the bauxite industry have impacted every a aspect of social life, including access to the justice system. The town of Linden, which includes the communities of Mackenzie on the eastern bank, and Wismar/Christianburg on the western bank of the Demerara River, is the second largest in the country, and the main population center of Region #10. Bauxite mining commenced in Mackenzie in 1916 with the incorporation of the Demerara Bauxite Company (DEMBA), and over the years rapid increases both in the scale of operations and profitability have been followed by sustained decline and contraction.</p>
+<p>High rates of unemployment resulting from job losses in the bauxite industry, and the constantly rising cost of living, have severely jeopardized the ability of residents to secure the protection of what is arguably one of the most fundamental civil rights in a democratic society &mdash; the right to equal access to justice. Efforts to address the needs of the community in this regard commenced with weekly visits to the Christianburg Magistrate's Court by Joan Ward-Mars in the Summer of 2007. The rest of the year was devoted to establishing the Centre, which was incorporated as a non-profit, limited liability company in September 2007.</p>
+<p>The Regional Democratic Council for Region #10 provided the second (top) floor of the Christianburg Magistrate's Court Building for our offices, which we occupied in January, 2008. This historic landmark, which still retains its distinct colonial architectural features, was one of the largest buildings constructed during the 1830s by British home builder and entrepreneur John Dalgeish Patterson. The first floor was subsequently modified to accommodate the Christianburg Magistrate's Court, and the Probation and Family Welfare Office (Linden) of the Ministry of Human Services and Social Security.</p>
+<p>We maintained service to the community at our own expense until February 2008 when we were very pleased to accept a grant of G$6,500,000.00 from the United States Agency for International Development - Governance and Democracy Project (USAID-GDCCR). Without this support we would have been forced to close our doors due to the lack of funding. A huge debt of gratitude is also owed to the project team at USAID-GDCCR for their constant advice, patience and hard work. The generous donation of equipment and furniture to the Centre when the USAID-GDCCR Project came to an end in September, 2008 enabled us to complete the furnishing of our offices and to improve the quality of services we are providing to the Linden community.</p>
+<p>In September 2008, a grant of G$6,656,440.00 was received from the United Nations Children's Fund (UNICEF - GUYANA), which has replaced USAID-GDCCR as our only source of financial support. We are very grateful for the invaluable assistance we are currently receiving from the UNICEF project team.</p>
+<p>The professional services firm, Ram and McRae - Chartered Accountants, has been appointed to act as our auditors. We have reports available for the following years: <a href="documents/LLAC-accounts-2007.pdf">2007</a> | <a href="documents/LLAC-accounts-2008.pdf">2008</a> | <a href="documents/LLAC-accounts-2009.pdf">2009</a> | <a href="documents/LLAC-accounts-2010.pdf">2010</a>. You will need to have <a href="https://web.archive.org/web/20180901155507/http://get.adobe.com/reader" target="_blank" rel="noopener">Adobe Reader</a> or a similar program installed.</p>
+<p>The members of the Board of Directors of the Linden Legal Aid Centre are as follows:</p>
+<p><span class="style18">Mr. Fitz L.R. Peters</span>, Chairperson (Attorney-at-Law)<br /> <span class="style18">Mr. Horace James</span>, Vice-Chairperson (Chief Executive Officer, Linden Mining Enterprise)<br /> <span class="style18">Dr. Joan Ward-Mars</span>, Secretary (College Professor and Attorney-at-Law)<br /> <span class="style18">Mr. Charles Fung-a-Fatt</span>, Treasurer (Attorney-at-Law)<br /> <span class="style18">Mrs. Deborah Osman-Backer</span> (Attorney-at-Law)<br /> <span class="style18">Dr. Pansy Armstrong</span> (Regional Health Officer, Regional Democratic Council #10)</p>
+</div>
+<div class="clearfloat">&nbsp;</div>
+</div>
+<div id="copyright">Copyright (c) 2009-2012 Linden Legal Aid Centre. All rights reserved. Webmaster: Jason Mars</div>

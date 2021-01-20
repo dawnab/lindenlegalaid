@@ -1,0 +1,167 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Linden Legal Aid Centre - Resources</title>
+<link href="/web/20180902004501cs_/http://lindenlegalaid.org/styles/styles.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+<!--
+#aidcontent {width:auto;}
+-->
+</style></head>
+
+<div id="wrapper">
+  <div id="banner"></div>
+  <div id="navbar">
+  <ul id="navleft">
+	<li><a href="aboutus.html">About Us</a></li>
+	<li><a href="newsletter.html">Newsletter</a></li>
+	<li><a href="our_work.html">Our Work</a></li>
+	<li><a href="resources.html">Resources</a></li>
+	<li><a href="statistics.html">Statistics</a></li>
+  </ul>
+  <ul id="navright">
+	<li><a href="index.html">Home</a></li>
+  	<li><a href="donate.html">Donate</a></li>
+	<li><a href="contactus.html">Contact Us</a></li>
+  </ul>
+  </div> 
+<br class="clearfloat"/>
+  <div id="contentheadleft">Resources</div>
+  <div id="contentheadcenter"></div>
+  <div id="contentheadright"><br/></div>
+  <br class="clearfloat"/>
+
+  <div id="aidcontent"><p>You will need <a href="https://web.archive.org/web/20180902004501/http://get.adobe.com/reader" target="_blank">Adobe Reader</a> or a similar program in order to view some of the documents on this page.</p>
+  
+	<h2>Agencies</h2>
+
+	<p>Victims of domestic and/or sexual violence can contact the following agencies in Guyana for assistance and social support:</p>
+	
+	<h3>Ministry of Human Services and Social Security</h3>
+	<p>1 Water Street, Stabroek<br/>
+	Georgetown, Guyana<br/>
+	<strong>Telephone:</strong> (592) 223-6041; (592) 225-6212; (592) 231-6556<br/>
+	<strong>Women's Affairs Bureau:</strong> (592) 225-4362<br/>
+	<strong>Probation and Welfare Office - Linden:</strong> (592) 442-0490</p>
+
+	<h3>Help and Shelter </h3>
+	<p>Homestretch Avenue<br/>
+	Durban Backlands<br/>
+	Georgetown, Guyana<br/>
+	<strong>Telephone:</strong> (592) 225-4731 or (592) 227-8353<br/>
+	<strong>Hotline (24 hours):</strong> (592) 227-3454<br/>
+	<strong>E-mail:</strong> hands at networksgy.com<br/>
+	<strong>Website:</strong> <a href="https://web.archive.org/web/20180902004501/http://www.hands.org.gy/" target="_blank">http://www.sdnp.org.gy/hands</a></p>
+
+	<h3>Red Thread Women's Development Organization</h3>
+	<p>72 Princes &amp; Adelaide Streets<br/>
+	Charlestown, Guyana<br/>
+	<strong>Telephone:</strong> (592) 227-7010 or (592) 223-6254<br/>
+	<strong>E-mail:</strong> thread at sndp.org.gy</p>
+	
+	<hr/>
+	
+	<h2>Legal Documents</h2>
+  
+	<h3 style="text-transform:uppercase;">The Guyana Domestic Violence Act, 1996</h3>
+
+	<p><strong>Protection Orders:</strong></p>
+
+	<p>Under and by virtue of the provisions of the Guyana Domestic Violence Act, 1996 a Protection Order  may be obtained upon application to any Magistrate's Court by any person who has been or is at risk of becoming a victim of domestic violence.  Applications are heard expeditiously by the presiding Magistrate, and any violation of the conditions of a Protection Order may be  punished by imprisonment for up to twelve months, and a fine  not exceeding ten thousand dollars.</p>
+	<p>The Domestic Violence Act also gives police the authority to enter upon any premises and to arrest without a warrant any person who violates a Protection Order, or poses an imminent threat of physical injury to another, as well as to render assistance to potential or actual victims of physical violence.</p>
+
+	<p>See Sections 4, 5 and 6 of the Domestic Violence Act,1996 as to the persons who may apply for a Protection Order, the conduct in respect of which and the conditions and prohibitions that may be imposed by such an Order.  See also Section 32 of the Act for the the penalties that may be imposed for violation of a Protection Order, and Sections 33 and 34 for police powers to enter upon premises and to make arrests without a warrant.</p>
+
+	<p><strong><a href="https://web.archive.org/web/20180902004501/http://www.gina.gov.gy/gina_pub/laws/Laws/cap1109.pdf" target="_blank">Read the full Act.</a></strong> (PDF)</p>
+	
+	<h3 style="text-transform:uppercase;">United Nations Convention on the Rights of the Child, 1989</h3>
+	
+	<p><strong>Article 2:</strong></p>
+	
+	<p>1. States Parties shall respect and ensure the rights set forth in the present Convention to each child within their jurisdiction without discrimination of any kind, irrespective of the child's or his or her parent's or legal guardian's race, colour, sex, language, religion, political or other opinion, national, ethnic or social origin, property, disability, birth or other status.</p>
+
+	<p>2. States Parties shall take all appropriate measures to ensure that the child is protected against all forms of discrimination or punishment on the basis of the status, activities, expressed opinions, or beliefs of the child's parents, legal guardians, or family members.</p>
+	
+	<p><strong>Article 3:</strong></p>
+	
+	<p>1. In all actions concerning children, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities or legislative bodies, the best interests of the child shall be a primary consideration.</p>
+
+	<p>2. States Parties undertake to ensure the child such protection and care as is necessary for his or her well-being, taking into account the rights and duties of his or her parents, legal guardians, or other individuals legally responsible for him or her, and, to this end, shall take all appropriate legislative and administrative measures.</p>
+
+	<p>3. States Parties shall ensure that the institutions, services and facilities responsible for the care or protection of children shall conform with the standards established by competent authorities, particularly in the areas of safety, health, in the number and suitability of their staff, as well as competent supervision.</p>
+	
+	<p><strong>Article 6:</strong></p>
+	
+	<p>1. States Parties recognize that every child has the inherent right to life.</p>
+
+	<p>2. States Parties shall ensure to the maximum extent possible the survival and development of the child.</p>
+	
+	<p><strong>Article 12:</strong></p>
+	
+	<p>1. States Parties shall assure to the child who is capable of forming his or her own views the right to express those views freely in all matters affecting the child, the views of the child being given due weight in accordance with the age and maturity of the child.</p>
+
+	<p>2. For this purpose, the child shall in particular be provided the opportunity to be heard in any judicial and administrative proceedings affecting the child, either directly, or through a representative or an appropriate body, in a manner consistent with the procedural rules of national law.</p> 
+	
+	<p><strong>Article 19:</strong></p>
+	
+	<p>1. States Parties shall take all appropriate legislative, administrative, social and educational measures to protect the child from all forms of physical or mental violence, injury or abuse, neglect or negligent treatment, maltreatment or exploitation, including sexual abuse, while in the care of parent(s), legal guardian(s) or any other person who has the care of the child.</p>
+
+	<p>2. Such protective measures should, as appropriate, include effective procedures for the establishment of social programmes to provide necessary support for the child and for those who have the care of the child, as well as for other forms of prevention and for identification, reporting, referral, investigation, treatment and follow-up of instances of child maltreatment described heretofore, and, as appropriate, for judicial involvement.</p>
+	
+	<p><strong>Article 37:</strong></p>
+	
+	<p>States Parties shall ensure that:</p>
+
+	<p>(a) No child shall be subjected to torture or other cruel, inhuman or degrading treatment or punishment. Neither capital punishment nor life imprisonment without possibility of release shall be imposed for offences committed by persons below eighteen years of age;</p>
+
+	<p>(b) No child shall be deprived of his or her liberty unlawfully or arbitrarily. The arrest, detention or imprisonment of a child shall be in conformity with the law and shall be used only as a measure of last resort and for the shortest appropriate period of time;</p>
+
+	<p>(c) Every child deprived of liberty shall be treated with humanity and respect for the inherent dignity of the human person, and in a manner which takes into account the needs of persons of his or her age. In particular, every child deprived of liberty shall be separated from adults unless it is considered in the child's best interest not to do so and shall have the right to maintain contact with his or her family through correspondence and visits, save in exceptional circumstances;</p>
+
+	<p>(d) Every child deprived of his or her liberty shall have the right to prompt access to legal and other appropriate assistance, as well as the right to challenge the legality of the deprivation of his or her liberty before a court or other competent, independent and impartial authority, and to a prompt decision on any such action.</p>
+	
+	
+	<p><strong>Article 40:</strong></p>
+	
+	<p>1. States Parties recognize the right of every child alleged as, accused of, or recognized as having infringed the penal law to be treated in a manner consistent with the promotion of the child's sense of dignity and worth, which reinforces the child's respect for the human rights and fundamental freedoms of others and which takes into account the child's age and the desirability of promoting the child's reintegration and the child's assuming a constructive role in society.</p>
+
+	<p>2. To this end, and having regard to the relevant provisions of international instruments, States Parties shall, in particular, ensure that:</p>
+
+	<p style="margin-left:15px;">(a) No child shall be alleged as, be accused of, or recognized as having infringed the penal law by reason of acts or omissions that were not prohibited by national or international law at the time they were committed;</p>
+
+	<p style="margin-left:15px;">(b) Every child alleged as or accused of having infringed the penal law has at least the following guarantees:</p>
+
+	<p style="margin-left:30px;">(i) To be presumed innocent until proven guilty according to law;</p>
+
+	<p style="margin-left:30px;">(ii) To be informed promptly and directly of the charges against him or her, and, if appropriate, through his or her parents or legal guardians, and to have legal or other appropriate assistance in the preparation and presentation of his or her defence;</p>
+
+	<p style="margin-left:30px;">(iii) To have the matter determined without delay by a competent, independent and impartial authority or judicial body in a fair hearing according to law, in the presence of legal or other appropriate assistance and, unless it is considered not to be in the best interest of the child, in particular, taking into account his or her age or situation, his or her parents or legal guardians;</p>
+
+	<p style="margin-left:30px;">(iv) Not to be compelled to give testimony or to confess guilt; to examine or have examined adverse witnesses and to obtain the participation and examination of witnesses on his or her behalf under conditions of equality;</p>
+
+	<p style="margin-left:30px;">(v) If considered to have infringed the penal law, to have this decision and any measures imposed in consequence thereof reviewed by a higher competent, independent and impartial authority or judicial body according to law;</p>
+
+	<p style="margin-left:30px;">(vi) To have the free assistance of an interpreter if the child cannot understand or speak the language used;</p>
+
+	<p style="margin-left:30px;">(vii) To have his or her privacy fully respected at all stages of the proceedings.</p>
+
+	<p>3. States Parties shall seek to promote the establishment of laws, procedures, authorities and institutions specifically applicable to children alleged as, accused of, or recognized as having infringed the penal law, and, in particular:</p>
+
+	<p style="margin-left:15px;">(a) The establishment of a minimum age below which children shall be presumed not to have the capacity to infringe the penal law;</p>
+
+	<p style="margin-left:15px;">(b) Whenever appropriate and desirable, measures for dealing with such children without resorting to judicial proceedings, providing that human rights and legal safeguards are fully respected. 4. A variety of dispositions, such as care, guidance and supervision orders; counselling; probation; foster care; education and vocational training programmes and other alternatives to institutional care shall be available to ensure that children are dealt with in a manner appropriate to their well-being and proportionate both to their circumstances and the offence.</p>
+
+	<p><strong><a href="https://web.archive.org/web/20180902004501/http://www2.ohchr.org/english/law/crc.htm" target="_blank">Read the full Convention.</a></strong> (HTML)</p>
+
+  </div>
+
+<div class="clearfloat"></div>
+</div>
+
+<div id="copyright">Copyright (c) 2009-2012 Linden Legal Aid Centre. All rights reserved. Webmaster: Jason Mars</div>
+
+</body>
+</html>
